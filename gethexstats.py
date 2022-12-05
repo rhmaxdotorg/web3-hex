@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #
-# hex.py web3 stats app
+# gethexstats.py web3 stats app
 #
 
 import os
